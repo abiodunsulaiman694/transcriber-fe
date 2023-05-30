@@ -1,4 +1,4 @@
-# Trsanscriber FE
+# Transcriber FE
 
 This React app(initialised with Create React App) accepts audio input and time range to transcribe audio to text.
 
